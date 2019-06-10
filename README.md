@@ -4,6 +4,10 @@ Introducing auto-incorrect: a python script that makes all characters lowercase 
 ## Usage
 `python auto-incorrect.py [-s|-f] [string|filename] [percentChance]`
 
+OR
+
+See `usage.py` for calling from another script
+
 ### Arguments
 *	Flag: `-s` means input is normal string, `-f` means it's a filename
 *	string: either text or a filename
